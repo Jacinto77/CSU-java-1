@@ -1,0 +1,29 @@
+Critical Thinking: Module 1
+Assignment:
+
+Option #1: List Individual's Name and Address Information
+
+Demonstrate understanding of basic programming concepts by:
+
+    Developing pseudocode that prints the following information for a fictional person:
+        First name
+        Last name
+        Street address
+        City
+        Zip code
+    Creating a simple java application that will print the items listed above on individual lines.
+
+Compile and submit your pseudocode, source code, and screenshots of the application executing the application,
+the results and GIT repository in a single document.
+
+Pseudocode:
+assign value for first name to string variable 'firstName'
+assign value for last name to string variable 'lastName'
+assign value for street address to string variable 'address'
+assign value for city to string variable 'city'
+assign value for zip code to int variable 'zip'
+print to console the value of firstName plus lastName
+print to console the value of address
+print to console the value of city
+print to console the value of zip
+    optionally, cast to string (but unneeded)
